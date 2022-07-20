@@ -1,7 +1,8 @@
-# Exercicios_Basicos_Java
 
-## Exercícios básicos na linguagem de programação Java
+<h1> Exercícios básicos na linguagem de programação Java</h1>
 
-### Loops
-### Condicionais
-### Arrays e Listas
+<h3>
+- Loops
+- Condicionais
+-  Arrays e Listas
+</h3>
